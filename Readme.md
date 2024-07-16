@@ -1,5 +1,5 @@
 ## Overview of the analysis
-JavaScript, Plotly, and D3.js are used to create a horizontal bar chart to display human volunteers (OTUs) using Plotly and d3 dropdown functions. 
+JavaScript, Plotly, and D3.js are used to display human volunteers' (OTUs) using Plotly and d3 dropdown functions. 
 
 ## Resources
 Program language: Javascript, plotly, d3.js.
